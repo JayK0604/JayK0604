@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayk0604&label=Profile%20views&color=0e75b6&style=flat" alt="jayk0604" /> </p>
 
-- 🔭 I’m currently working on [Runner Food](https://github.com/JayK0604/Runner-Food)
+- 🔭 I’m currently working on [Weather Forecast App] 
 
 - 🌱 I’m currently learning **Flutter, Java and Python**
 
 - 🤝 I’m looking for help with **Android SDK**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin, UI/UX**
 
 - 📫 How to reach me **jayk65225@gmail.com**
 
