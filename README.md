@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Weather Forecast App] 
 
-- 🌱 I’m currently learning **Flutter, Java and Python**
+- 🌱 I’m currently learning **React and Java**
 
 - 🤝 I’m looking for help with **Android SDK**
 
 - 💬 Ask me about **Kotlin, UI/UX**
 
-- 📫 How to reach me **jayk65225@gmail.com**
+- 📫 How to reach me **jaykumarprajapati64@gmail.com**
 
 - ⚡ Fun fact **📱 Did you know that the first-ever Android version didn't have a codename? It was simply called "Android 1.0." However, starting with Android 1.1, Google began naming each version after a dessert in alphabetical order. The tradition continued with Cupcake, Donut, Eclair, and so on, up to the latest versions like Android Pie and Android 12. It's a sweet journey of Android development through the years!**
 
