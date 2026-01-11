@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jay Kumar Prajapati</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Software Developer Engineeer in Test from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayk0604&label=Profile%20views&color=0e75b6&style=flat" alt="jayk0604" /> </p>
 
-- 🔭 I’m currently working on [Weather Forecast App] 
+- 🔭 I’m currently working on [Testing] 
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **Manual and Automation Testing**
 
-- 🤝 I’m looking for help with **Android SDK**
+- 🤝 I’m looking for help with **Automation Testing**
 
-- 💬 Ask me about **Kotlin, UI/UX**
+- 💬 Ask me about **Testing,etc**
 
 - 📫 How to reach me **jaykumarprajapati64@gmail.com**
 
