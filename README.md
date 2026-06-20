@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayk0604&label=Profile%20views&color=0e75b6&style=flat" alt="jayk0604" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayk0604" alt="jayk0604" /></a> </p>
-
 - 🔭 I’m currently working on **Manual Testing Project and Selenium Automation Framework**
 
 - 🌱 I’m currently learning **Selenium WebDriver, TestNG, Maven, API Testing, SQL and CI/CD Basics**
